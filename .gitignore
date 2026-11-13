@@ -10,9 +10,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data
-data/raw/
-data/processed/
-data/preprocessed/
+data/
 
 # Model checkpoints (optional to ignore or track, ignore large weights)
-# models/*.pt
+# models/*.pt.venv/
